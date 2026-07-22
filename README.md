@@ -1,21 +1,10 @@
-# pjsekai-overlay / プロセカ風動画作成補助ツール
-
-# !READ!
-**If help is required...**        
-> Uhh like if you need help with anything just wait patiently until I figure out whether to make a wiki or not
-
-Normal credits description text:
-```
-プロセカ風動画作成補助ツール：
-  https://github.com/sevenc-nanashi/pjsekai-overlay
-  作成：名無し｡ （ https://sevenc7c.com ）
-```
-
-Updated credits description text:
+# old pjsekai-overlay
+I might update this sometime, as chcy is gone and there are a couple new servers now. However I don't know when I'll update. Thanks
+#
+Video credits:
 ```
 Pjsekai-overlay tool:
-  https://github.com/sevenc-nanashi/pjsekai-overlay
-  Original by: 名無し｡ (nanashi) (https://sevenc7c.com)
-  https://github.com/bnarpbnarp/old_ui-pjsekai-overlay
+  https://github.com/jp-co-wisp/old_ui-pjsekai-overlay
+  Original by: nanashi (https://sevenc7c.com)
   Fix by: bnarpbnarp
 ```
