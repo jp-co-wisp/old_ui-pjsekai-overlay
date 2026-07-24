@@ -4,7 +4,7 @@ I might update this sometime, as chcy is gone and there are a couple new servers
 Video credits:
 ```
 Pjsekai-overlay tool:
-  https://github.com/jp-co-wisp/old_ui-pjsekai-overlay
+  https://github.com/jp-co-wisp/old-pjsekai-overlay
   Original by: nanashi (https://sevenc7c.com)
   Fix by: bnarpbnarp
 ```
